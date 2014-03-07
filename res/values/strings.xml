@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StockNow</string>
+    <string name="show_normal">ภาพขนาดใหญ่</string>
+    <string name="show_mini">ภาพขนาดเล็ก</string>
+    <string name="show_text_only">ข้อความ</string>
+     <string name="show_grid">ตาราง</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="aboutus">About Update66</string>
+    <string name="aboutustxt">This application is simple News feed application that you can follow and update new and hot news so you up to date the things around you. Moreover you also able to update the news  via website at our website : www.update66.com</string>
+	<string name="web">www.update66.com</string>
+    <string-array name="rivers">
+        <item>การเมือง</item>
+        <item>เศรษฐกิจ</item>
+        <item>ต่างประเทศ</item>
+        <item>กีฬา</item>
+        <item>ไอที</item>
+        <item>บันเทิง</item>
+        <item>สุขภาพ</item>
+          <item>เกี่ยวกับเรา</item>
+    </string-array>
+
+    <string name="title_activity_news_detail">Update66</string>
+    <string name="title_activity_about_us">About us</string>
+
+</resources>

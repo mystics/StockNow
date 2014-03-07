@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+     <color name="black">#222222</color>
+     <color name="blue">#8cc2ff</color>
+     <color name="brown">#54504a</color>
+     <color name="brown02">#c6915e</color>
+     <color name="brownlight">#e0cfbf</color>
+     <color name="gray">#737373</color>
+     <color name="graydark">#333333</color>
+     <color name="graylight">#d8d8d8</color>
+     <color name="bluedark">#3e5780</color>
+	 <color name="green">#7bfb66</color>
+	 <color name="greenlight">#d3ef7b</color>
+	 <color name="white">#fff8ee</color>
+	 <color name="orange01">#f58a00</color>
+	 <color name="reddark">#af0a2d</color>
+	 <color name="color_popup">#55000000</color>
+	 <color name="bluedissa">#577890</color>
+	 <color name="tranparent">#00FFFFFF</color>
+	 <color name="unread_notification">#eaf7ff</color>
+	 <color name="pressed_color">#4d90fe</color>
+    <color name="default_color">#ffffff</color>
+</resources>

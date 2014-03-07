@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:minHeight="250dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/noimg2" />
+
+    <!-- #CCf8f7f5 -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:background="@color/graydark"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxEms="50"
+        android:maxLines="2"
+        android:padding="5dp"
+        android:text="Nomessage (News Headind that maybe long however it could not longer than 2 lines)"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/graylight"
+        android:textSize="16sp" />
+
+</RelativeLayout>
